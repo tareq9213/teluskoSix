@@ -1,8 +1,8 @@
-Here we work with 
-Models,Migration
-Remigrations
-Admin panel, superuser
-Media_root,media_url
-static_root,Static-url
-Add and fetch data from database
-finally works with the ariaTemplates
+Here we work with
+-Models,Migration
+-Remigrations
+-Admin panel, superuser
+-Media_root,media_url
+-static_root,Static-url
+-Add and fetch data from database
+-finally works with the ariaTemplates
